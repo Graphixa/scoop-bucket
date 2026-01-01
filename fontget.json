@@ -6,14 +6,14 @@
             "bin": [
                 "fontget.exe"
             ],
-            "hash": "a2b0c4eb425b748ddf6e13ad4f29f95fd4edb61ed8ae66aa444d8c3671fa1c1d"
+            "hash": "bdccac37abf9d977fe505a4b85ca9a950fd3fc89b2b40a81c230cc25a7c1a47d"
         },
         "arm64": {
             "url": "https://github.com/Graphixa/FontGet/releases/download/v2.1.0/fontget_2.1.0_windows_arm64.zip",
             "bin": [
                 "fontget.exe"
             ],
-            "hash": "5cfc55c0b16947505386642b0ec0c985261fececda77316ff3027865c9a8e547"
+            "hash": "536b6fca250f8c05a22991fe38b28970ebee0a1b37d9080c75340e69b08becaf"
         }
     },
     "homepage": "https://github.com/Graphixa/FontGet",
