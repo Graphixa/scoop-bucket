@@ -1,22 +1,22 @@
 {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Graphixa/FontGet/releases/download/v2.0.0/fontget_2.0.0_windows_amd64.zip",
+            "url": "https://github.com/Graphixa/FontGet/releases/download/v2.1.0/fontget_2.1.0_windows_amd64.zip",
             "bin": [
                 "fontget.exe"
             ],
-            "hash": "496c0643da8c9fe5e8424612f6b0227040ef5b4df1d52b5ab584d5d4ea5ec00c"
+            "hash": "a2b0c4eb425b748ddf6e13ad4f29f95fd4edb61ed8ae66aa444d8c3671fa1c1d"
         },
         "arm64": {
-            "url": "https://github.com/Graphixa/FontGet/releases/download/v2.0.0/fontget_2.0.0_windows_arm64.zip",
+            "url": "https://github.com/Graphixa/FontGet/releases/download/v2.1.0/fontget_2.1.0_windows_arm64.zip",
             "bin": [
                 "fontget.exe"
             ],
-            "hash": "c19be8ef61b32b75d9ad21ef09e3ccee210590dc5b8f5f6fe15603331b1bddd1"
+            "hash": "5cfc55c0b16947505386642b0ec0c985261fececda77316ff3027865c9a8e547"
         }
     },
     "homepage": "https://github.com/Graphixa/FontGet",
     "license": "MIT",
-    "description": "A tiny, cross-platform CLI tool to install and manage fonts from the command line"
+    "description": "A tiny, cross-platform CLI tool to install and manage fonts from the command line. Search for fonts, list installed fonts, install or remove fonts all from the CLI."
 }
