@@ -1,19 +1,19 @@
 {
-    "version": "2.3.3",
+    "version": "2.3.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Graphixa/FontGet/releases/download/v2.3.3/fontget_2.3.3_windows_amd64.zip",
+            "url": "https://github.com/Graphixa/FontGet/releases/download/v2.3.4/fontget_2.3.4_windows_amd64.zip",
             "bin": [
                 "fontget.exe"
             ],
-            "hash": "52e884fc996a84cb2da886563c78f80e00b45d1430cd83960a758561a3310d4e"
+            "hash": "870e0f36d5d9aef3119efa223faaf03824aba12ed025d31c080f682fdb33e242"
         },
         "arm64": {
-            "url": "https://github.com/Graphixa/FontGet/releases/download/v2.3.3/fontget_2.3.3_windows_arm64.zip",
+            "url": "https://github.com/Graphixa/FontGet/releases/download/v2.3.4/fontget_2.3.4_windows_arm64.zip",
             "bin": [
                 "fontget.exe"
             ],
-            "hash": "8801138284fdf4cb35003d3ca610939653efc1f4c37e37f11557dbc33ad2ac44"
+            "hash": "42f7a481fed4351a7214e3dfcd2c652d9df539d25168e4300482f9845b6eb871"
         }
     },
     "homepage": "https://github.com/Graphixa/FontGet",
